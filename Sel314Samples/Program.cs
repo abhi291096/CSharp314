@@ -27,7 +27,7 @@ namespace SeleniumTest
             options.AddAdditionalCapability("os", "Windows", true);
             options.AddAdditionalCapability("browser_version", "10.0", true);
 
-            driver = new RemoteWebDriver(new Uri("http://abhishekmordani2:yNdm9XxyX7esbsk4Uqg6@hub-cloud.browserstack.com/wd/hub/"),
+            driver = new RemoteWebDriver(new Uri("http://<browserstack_username>:<browserstack_access_key>@hub-cloud.browserstack.com/wd/hub/"),
                                          options.ToCapabilities());
 
             driver.Navigate().GoToUrl("http://www.google.com");
