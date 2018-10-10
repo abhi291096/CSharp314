@@ -1,0 +1,8 @@
+/Users/abhishekmordani/Projects/Sel314Samples/Sel314Samples/obj/x86/Debug/Sel314Samples.csproj.CoreCompileInputs.cache
+/Users/abhishekmordani/Projects/Sel314Samples/Sel314Samples/bin/Debug/Sel314Samples.exe
+/Users/abhishekmordani/Projects/Sel314Samples/Sel314Samples/bin/Debug/Sel314Samples.pdb
+/Users/abhishekmordani/Projects/Sel314Samples/Sel314Samples/bin/Debug/WebDriver.dll
+/Users/abhishekmordani/Projects/Sel314Samples/Sel314Samples/bin/Debug/WebDriver.xml
+/Users/abhishekmordani/Projects/Sel314Samples/Sel314Samples/obj/x86/Debug/Sel314Samples.csproj.CopyComplete
+/Users/abhishekmordani/Projects/Sel314Samples/Sel314Samples/obj/x86/Debug/Sel314Samples.exe
+/Users/abhishekmordani/Projects/Sel314Samples/Sel314Samples/obj/x86/Debug/Sel314Samples.pdb

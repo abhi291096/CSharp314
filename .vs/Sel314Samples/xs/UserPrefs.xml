@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2327D909-1B12-4A71-9A48-F6453E64F84F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sel314Samples/FireFox.cs">
+    <Files>
+      <File FileName="Sel314Samples/Program.cs" Line="30" Column="74" />
+      <File FileName="Sel314Samples/FireFox.cs" Line="49" Column="1" />
+      <File FileName="Sel314Samples/Google.cs" Line="12" Column="8" />
+      <File FileName="Sel314Samples/IE.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Sel314Samples PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/abhishekmordani/Desktop/FF.cs" line="14" column="6" />
+      <RunToCursorBreakpoint file="/Users/abhishekmordani/Desktop/FF.cs" line="16" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
